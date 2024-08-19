@@ -74,6 +74,14 @@ LeetSolver-Hub es un repositorio colaborativo para resolver desafíos de LeetCod
 - **¿Puedo enviar soluciones en múltiples lenguajes?**  
   Sí, puedes enviar tus soluciones en cualquier lenguaje soportado por el proyecto.
 
+## Sobre mí
 
-¡Gracias por contribuir!
+Desarrollado por [Imista](https://github.com/Imista).  
+Si tienes alguna pregunta o necesitas ayuda, no dudes en contactarme:
+
+- **Correo Electrónico:** [benjamintec3455@gmail.com](mailto:benjamintec3455@gmail.com)
+- **LinkedIn:** [linkedin.com/in/benji-rodriguez](https://www.linkedin.com/in/benji-rodriguez/)
+
+¡Gracias por contribuir y ser parte de esta comunidad!
+
 
