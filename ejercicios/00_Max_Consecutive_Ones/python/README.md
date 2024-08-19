@@ -15,6 +15,6 @@ Corre el siguiente comando para ejecutar las pruebas:
 python3 ejercicios/00_Max_Consecutive_Ones/python
 ```
 
-### ¿Por qué `__main__.py`?
+### ¿Por qué se usa `__main__.py`?
 
 El archivo `__main__.py` actúa como el punto de entrada principal cuando ejecutas el directorio. Permite importar y ejecutar las pruebas basadas en la variable de entorno `USER_GITHUB`.

@@ -1,4 +1,4 @@
-## Ejercicio 00: Max Consecutive Ones
+## Ejercicio 00: [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 
 Dada una matriz binaria `nums`, devuelve el número máximo de `1` consecutivos en la matriz.
 

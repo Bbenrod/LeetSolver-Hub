@@ -8,7 +8,7 @@ LeetSolver-Hub es un repositorio colaborativo para resolver desafíos de LeetCod
 
 | #  | Ejercicio   |
 |----|-------------|
-| 00 | [Max Consecutive Ones](ejercicios/00_Max_Consecutive_Ones/EJERCICIO.md) |
+| 00 | [Max Consecutive Ones](ejercicios/00_Max_Consecutive_Ones/README.md) |
 | 01 | ... |
 | 02 | ... |
 | ...| ... |
