@@ -1,8 +1,12 @@
 # LeetSolver-Hub
 
+**Objetivo**
+
+El objetivo de LeetSolver-Hub es que los usuarios practiquen **algoritmia** para prepararse para **pruebas técnicas**, se familiaricen con el **entorno de trabajo en GitHub** y participen activamente en un **repositorio colaborativo**.
+
 **Descripción**
 
-LeetSolver-Hub es un repositorio colaborativo para resolver desafíos de LeetCode semanalmente. Cada participante sube su solución en su lenguaje preferido. Las soluciones se prueban automáticamente, ofreciendo una forma divertida y dinámica de mejorar habilidades de programación.
+LeetSolver-Hub es un **repositorio colaborativo** para resolver desafíos de LeetCode semanalmente. Cada participante sube su **solución** en su **lenguaje preferido**. Las **soluciones** se prueban automáticamente, ofreciendo una forma divertida y dinámica de mejorar **habilidades de programación**.
 
 ## Ejercicios
 
@@ -18,7 +22,7 @@ LeetSolver-Hub es un repositorio colaborativo para resolver desafíos de LeetCod
 1. **Haz un Fork del Repositorio:**
    - Haz clic en **"Fork"** en la parte superior derecha de la página del repositorio.
 
-2. **Clona tu Fork:**
+2. **Clona tu Fork**
 
 3. **Crea un Archivo `.env`:**
    - En la raíz del proyecto, crea un archivo `.env` con la siguiente configuración:
