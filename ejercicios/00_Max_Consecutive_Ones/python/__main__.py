@@ -4,8 +4,8 @@ import os
 load_dotenv()
 user = os.getenv('USER_GITHUB')
 
-if user is None:
-    print('Error: La variable de entorno USER_GITHUB no está definida.')
+if user is None or user == "":
+    print('Error: La variable de entorno USER_GITHUB no está definida. Verifica el archivo .env')
     exit(1)
 
 solution = None
