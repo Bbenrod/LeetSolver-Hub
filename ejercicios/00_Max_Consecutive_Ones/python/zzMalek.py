@@ -1,11 +1,11 @@
 def solution(nums):
-    max_count = 0
-    count = 0
-    for x in nums:
-        if x != 1:
-            max_count = max(count, max_count)
-            count = 0
+    counter = 0
+    maxNumber = 0
+    for num in nums:
+        if num == 1:
+            counter += 1
+            if counter > maxNumber:
+                maxNumber = counter
         else:
-            count += 1
-
-    return 0
+            counter = 0
+    return maxNumber
