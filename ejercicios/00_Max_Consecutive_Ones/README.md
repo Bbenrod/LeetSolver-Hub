@@ -14,3 +14,9 @@ Dada una matriz binaria `nums`, devuelve el número máximo de `1` consecutivos 
 **Salida:** `2`
 
 ¿Problemas en solucionarlo? Revisa este video: [https://youtu.be/AMKbNuNpPws](https://youtu.be/AMKbNuNpPws)
+
+## Solución del Ejercicio
+
+Los siguientes colaboradores han aportado la solución para este ejercicio:
+
+- [Imista](https://github.com/Imista/)
