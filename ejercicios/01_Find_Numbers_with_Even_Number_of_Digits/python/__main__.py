@@ -21,7 +21,7 @@ test_cases = [
     { 'input': [12, 345, 2, 6, 7896], 'expected': 2 },
     { 'input': [555, 901, 482, 1771], 'expected': 1 },
     { 'input': [8888, 999, 77777, 66, 55555, 4444], 'expected': 3 },
-    { 'input': [2468, 13579, 246, 80, 97531], 'expected': 4 },
+    { 'input': [2468, 13579, 46, 80, 7531], 'expected': 4 },
 ]
 
 # Ejecutar los casos de prueba
