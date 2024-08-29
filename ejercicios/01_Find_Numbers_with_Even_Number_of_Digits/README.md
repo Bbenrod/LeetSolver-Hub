@@ -24,3 +24,5 @@ Solo 1771 tiene un número par de dígitos.
 ## Solución del Ejercicio
 
 Los siguientes colaboradores han aportado la solución para este ejercicio:
+
+- [Imista](https://github.com/Imista/)
