@@ -33,6 +33,10 @@ test_cases = [
     {
         "input": [0, 0, 0],
         "expected": [0, 0, 0]
+    },
+    {
+        "input": [-1],
+        "expected": [1]
     }
 ]
 
