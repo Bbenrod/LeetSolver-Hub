@@ -21,6 +21,8 @@ Por lo tanto, solo 12 y 7896 tienen un número par de dígitos.
 **Explicación:**  
 Solo 1771 tiene un número par de dígitos.
 
+¿Problemas en solucionarlo? Revisa este video: [https://youtu.be/HRp8mNJvLZ0](https://youtu.be/HRp8mNJvLZ0)
+
 ## Solución del Ejercicio
 
 Los siguientes colaboradores han aportado la solución para este ejercicio:
