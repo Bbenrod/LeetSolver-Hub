@@ -20,4 +20,4 @@ Después de ordenar, se convierte en [0,1,9,16,100].
 
 Los siguientes colaboradores han aportado la solución para este ejercicio:
 
-- (Vacio)
+- [Imista](https://github.com/Imista/)
