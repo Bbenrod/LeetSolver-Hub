@@ -28,3 +28,4 @@ Solo 1771 tiene un número par de dígitos.
 Los siguientes colaboradores han aportado la solución para este ejercicio:
 
 - [Imista](https://github.com/Imista/)
+- [Dancarhide](https://github.com/Dancarhide/)
