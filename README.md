@@ -30,7 +30,7 @@ LeetSolver-Hub es un **repositorio colaborativo** para resolver desafíos de Lee
      USER_GITHUB=your_username
      ```
 
-4. (Opcional) **Crea una Rama Nueva:**
+4. **Crea una Rama Nueva:**
    - Ejecuta:
      ```bash
      git checkout -b <usuario>-<ejercicio>-<lenguaje>
