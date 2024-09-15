@@ -37,7 +37,8 @@ LeetSolver-Hub es un **repositorio colaborativo** para resolver desafíos de Lee
      ```
 
 5. **Agrega tu Solución:**
-   - Añade tu solución en el archivo adecuado en `ejercicios/<lenguaje>`.
+   - Añade tu solución en el archivo adecuado en `ejercicios/<número>/<lenguaje>`.
+   - Añade tu nombre en el archivo adecuado en `ejercicios/<número>/README.md`.
 
 6. **Commit y Push:**
    - Realiza un commit y empuja los cambios:
