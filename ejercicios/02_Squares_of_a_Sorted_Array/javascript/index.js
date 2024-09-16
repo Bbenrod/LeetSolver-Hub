@@ -25,14 +25,18 @@ const testCases = [
     {
         input: [0, 0, 0],
         expected: [0, 0, 0]
-    }
+    },
+    {
+        input: [-1],
+        expected: [1]
+    },
 ];
 
 
 testCases.forEach(({ input, expected }, index) => {
     const result = solution(input);
-    const passed = result === expected;
-    console.log(`Caso de Prueba #${index}: ${passed ? 'PASÓ' : `FALLÓ (Entrada: ${JSON.stringify(input)}, Esperado: ${expected}, Obtenido: ${result})`}`);
+    const passed = result.length === expected.length && result.every((value, index) => value === expected[index]);
+    console.log(`Caso de Prueba #${index}: ${passed ? 'PASÓ' : `FALLÓ (Entrada: ${JSON.stringify(input)}, Esperado: ${JSON.stringify(expected)}, Obtenido: ${JSON.stringify(result)})`}`);
 });
 
 if (testCases.every(({ input, expected }) => solution(input) === expected))
