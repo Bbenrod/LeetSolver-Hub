@@ -20,3 +20,4 @@ Dada una matriz binaria `nums`, devuelve el número máximo de `1` consecutivos 
 Los siguientes colaboradores han aportado la solución para este ejercicio:
 
 - [Imista](https://github.com/Imista/)
+- [Valeriagonso](https://github.com/valeriagonso)
