@@ -5,9 +5,9 @@
 ### A continuación los pasos para resolverlo:
 
 1. **Crea una nueva rama**:
-   - Asegúrate de estar en el directorio del proyecto y crea una nueva rama con el formato: `<tu-nombre>-prueba-holamundo`.
+   - Asegúrate de estar en el directorio del proyecto y crea una nueva rama con el formato: `<tu-nombre>-prueba-holamundo-<lenguaje>`.
      ```bash
-     git checkout -b <tu-nombre>-prueba-holamundo
+     git checkout -b <tu-nombre>-prueba-holamundo-<lenguaje>
      ```
 
 2. **Agrega tu nombre**:
@@ -31,7 +31,7 @@
      ```bash
      git add .
      git commit -m "<tu-nombre>: Hola Mundo"
-     git push origin <tu-nombre>-prueba-holamundo
+     git push origin <tu-nombre>-prueba-holamundo-<lenguaje>
      ```
 
 6. **Crea un Pull Request (PR)**:
@@ -44,3 +44,4 @@
 Los siguientes colaboradores han aportado la solución para este ejercicio:
 
 - [TuNombre](https://github.com/TuNombre)
+- [Imista](https://github.com/imista)
