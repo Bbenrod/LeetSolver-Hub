@@ -30,7 +30,7 @@
    - Realiza un commit con tus cambios y sube tu rama al repositorio remoto.
      ```bash
      git add .
-     git commit -m "<tu-nombre>: Hola Mundo"
+     git commit -m "<tu-nombre>: Hola-Mundo-<lenguaje>"
      git push origin <tu-nombre>-prueba-holamundo-<lenguaje>
      ```
 
