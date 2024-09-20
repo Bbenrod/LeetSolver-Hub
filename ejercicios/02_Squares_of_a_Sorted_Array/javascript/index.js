@@ -7,7 +7,13 @@ if (!user) {
     process.exit(1);
 }
 
-const { solution } = require(`./${user}.js`);
+let solution;
+try {
+    ({ solution } = require(`./${user}.js`));
+} catch (error) {
+    console.error(`Error: No se pudo importar el archivo ${user}.js o la función solution.`);
+    process.exit(1);
+}
 
 const testCases = [
     {
