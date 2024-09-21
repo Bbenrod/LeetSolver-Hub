@@ -12,6 +12,7 @@ LeetSolver-Hub es un **repositorio colaborativo** para resolver desafíos de Lee
 
 | #  | Ejercicio   |
 |----|-------------|
+| __ | [Prueba de Hola Mundo](ejercicios/_Prueba_De_Hola_Mundo/README.md) |
 | 00 | [Max Consecutive Ones](ejercicios/00_Max_Consecutive_Ones/README.md) |
 | 01 | [Find Numbers with Even Number of Digits](ejercicios/01_Find_Numbers_with_Even_Number_of_Digits/README.md) |
 | 02 | [Squares of a Sorted Array](/ejercicios/02_Squares_of_a_Sorted_Array/README.md) |
