@@ -19,6 +19,7 @@ try {
 const testCases = [
     { input: [1, 0, 2, 3, 0, 4, 5, 0], expected: [1, 0, 0, 2, 3, 0, 0, 4] },
     { input: [1, 2, 3], expected: [1, 2, 3] },
+    { input: [0, 4, 1, 0, 0, 8, 0, 0, 3], expected: [0, 0, 4, 1, 0, 0, 0, 0, 8] },
 ];
 
 // Ejecutar los casos de prueba
