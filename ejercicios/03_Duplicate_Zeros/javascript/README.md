@@ -6,6 +6,20 @@ Para usar JavaScript en tu proyecto, instala `dotenv` con:
 npm install dotenv
 ```
 
+### Formato de la Solución
+
+Tu solución en JavaScript debe seguir este formato:
+
+```javascript
+function solution(nums) {
+    ...
+}
+
+module.exports = { solution };
+```
+
+Asegúrate de usar el nombre `solution` para tu función y exportarla correctamente para que las pruebas automáticas puedan ejecutarse.
+
 ### Ejecutar Pruebas
 
 Corre el siguiente comando para ejecutar las pruebas:

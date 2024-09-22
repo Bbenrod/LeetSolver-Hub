@@ -24,4 +24,4 @@ No hay ceros en el arreglo, por lo que el arreglo se mantiene igual.
 
 Los siguientes colaboradores han aportado la solución para este ejercicio:
 
-- (Vacio)
+- [Imista](https://github.com/Imista/)
